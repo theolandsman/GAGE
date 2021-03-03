@@ -1165,7 +1165,7 @@ div.IATS_EmbedFormDiv {
 }
 
 #IATS_PaymentBoxDiv a, #IATS_PaymentBoxDiv a:link, #IATS_PaymentBoxDiv a:visited {
-    color: #996699;
+    color: #2973D6;
     text-decoration: none;
     font-size: 13px;
 }
@@ -1317,14 +1317,14 @@ label.IATS_EventTitle {
     font-weight: bold;
     font-size: 42px;
     line-height: 42px;
-    color: #663366;
+    color: #1D437D;
     font-family: Georgia, Arial, Helvetica, sans-serif;
 }
 
 span.IATS_AmountSectionTitle,
 span.IATS_PaymentSectionTitle {
     margin: 0;
-    color: #996699;
+    color: #2973D6;
     font-size: 22px;
     line-height: 22px;
     font-weight: bold;
@@ -1338,7 +1338,7 @@ div.IATS_TotalDiv {
     color: #fff;
     font-size: 16px;
     line-height: 16px;
-    background: #996699;
+    background: #2973D6;
 }
 
 .IATS_ShoppingCartList {
@@ -1351,7 +1351,7 @@ div.IATS_TotalDiv {
     }
 
     .IATS_ShoppingCartList li.IATS_ShoppingCartRightItem a {
-        color: #996699;
+        color: #2973D6;
     }
 
         .IATS_ShoppingCartList li.IATS_ShoppingCartRightItem a:hover {
@@ -1367,7 +1367,7 @@ div.IATS_SecureDataDiv {
     }
 
     div.IATS_SecureDataDiv a {
-        color: #996699;
+        color: #2973D6;
         text-decoration: none;
     }
 
@@ -1377,7 +1377,7 @@ div.IATS_SecureDataDiv {
         }
 
 div#IATS_Payment_DebitDiv div.IATS_SecureDataDiv a {
-    color: #996699;
+    color: #2973D6;
     text-decoration: none;
 }
 
@@ -1391,7 +1391,7 @@ button.IATS_Action {
     font-size: 26px;
     line-height: 26px;
     font-family: Georgia, Arial, Helvetica, sans-serif;
-    border: 3px solid #663366;
+    border: 3px solid #1D437D;
     font-weight: bold;
     color: #fff;
     background: #976497;
@@ -1420,7 +1420,7 @@ button.IATS_Action {
 
 div.IATS_SocialMediaDiv a.IATS_SocialLink,
 a.IATS_SocialLink {
-    color: #996699;
+    color: #2973D6;
 }
 
     div.IATS_SocialMediaDiv a.IATS_SocialLink:hover,
@@ -1433,7 +1433,7 @@ button.IATS_IncreaseQtyShort {
     position: relative;
     top: -2px;
     padding: 5px 0;
-    background: #663366;
+    background: #1D437D;
     color: #fff;
     border: none;
     filter: none;
@@ -1447,7 +1447,7 @@ button.IATS_IncreaseQtyShort {
 
 .IATS_ShoppingCartAddButton {
     right: 40px;
-    background: #663366;
+    background: #1D437D;
     color: #fff;
     filter: none;
     border: none;
@@ -1534,7 +1534,7 @@ span.IATS_AmountSectionTitle {
     clear: both;
     margin: 0;
     padding: 16px 20px 14px 20px;
-    background: #663366;
+    background: #1D437D;
     color: #fff;
 }
 
